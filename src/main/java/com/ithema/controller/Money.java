@@ -6,4 +6,5 @@ package com.ithema.controller;
  */
 public class Money {
     private int money;
+    private int age;
 }
