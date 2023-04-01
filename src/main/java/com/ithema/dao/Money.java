@@ -5,4 +5,5 @@ package com.ithema.dao;
  * @create 2023-04-01 21:19
  */
 public interface Money {
+
 }
