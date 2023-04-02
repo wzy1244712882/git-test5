@@ -8,4 +8,5 @@ public class Money {
     private int money;
     private int age;
     private String name;
+    private String sex;
 }
