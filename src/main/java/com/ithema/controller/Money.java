@@ -11,4 +11,6 @@ public class Money {
     private String sex;
 
     private String sss;
+    private String pull_test;
+
 }
